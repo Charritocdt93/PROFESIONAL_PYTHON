@@ -18,16 +18,16 @@ Prepárate para desbloquear un potencial ilimitado. Únete a nosotros en este em
 
 Este curso tiene como objetivo proporcionar a los participantes una comprensión sólida y práctica del lenguaje de programación Python, guiándolos desde los fundamentos hasta habilidades avanzadas. Al final del curso, los estudiantes serán capaces de:
 
-    * Crear Aplicaciones en Python: Desarrollarán habilidades para crear aplicaciones desde cero utilizando el entorno de desarrollo PyCharm y ejecutando Python desde la consola de comandos.
-    * Dominar los Fundamentos del Lenguaje: Comprenderán conceptos esenciales como variables, constantes, tipos de datos, operadores, estructuras de control de flujo y estructuras iterativas.
-    * Trabajar con Tipos de Datos Complejos: Manipularán eficientemente cadenas de caracteres, tuplas, listas y diccionarios, utilizando bucles for y técnicas avanzadas como break, continue y pass.
-    * Implementar Funciones Definidas por el Usuario: Crearán funciones personalizadas, explorando diversas opciones de parámetros y comprendiendo cómo manejar funciones que retornan datos.
-    * Sumergirse en la Programación Orientada a Objetos (POO): Dominarán los principios de la POO, incluyendo la creación y manipulación de clases, objetos, atributos, métodos, encapsulación, herencia y polimorfismo.
-    * Trabajar con Módulos y Paquetes: Aprenderán a modularizar su código, crear y usar módulos, comprender namespacing y utilizar alias para una gestión eficiente del código.
-    * Gestionar Excepciones y Manipular Archivos: Desarrollarán habilidades para gestionar excepciones, comprender los diferentes modos de apertura de archivos y aplicar técnicas de serialización.
-    * Introducción a Bases de Datos con SQLite3: Explorarán el lenguaje SQL para realizar operaciones CRUD, conectándose y manipulando bases de datos en Python con SQLite3.
-    * Explorar Temas Avanzados: Aprenderán sobre hilos, manipulación de fechas, y se aventurarán en el fascinante mundo del web scraping utilizando la librería BeautifulSoup.
-    * Proyecto Fin de Curso: Aplicarán todos los conocimientos adquiridos en un proyecto final que integrará diversas habilidades y conceptos del curso.
+* Crear Aplicaciones en Python: Desarrollarán habilidades para crear aplicaciones desde cero utilizando el entorno de desarrollo PyCharm y ejecutando Python desde la consola de comandos.
+* Dominar los Fundamentos del Lenguaje: Comprenderán conceptos esenciales como variables, constantes, tipos de datos, operadores, estructuras de control de flujo y estructuras iterativas.
+* Trabajar con Tipos de Datos Complejos: Manipularán eficientemente cadenas de caracteres, tuplas, listas y diccionarios, utilizando bucles for y técnicas avanzadas como break, continue y pass.
+* Implementar Funciones Definidas por el Usuario: Crearán funciones personalizadas, explorando diversas opciones de parámetros y comprendiendo cómo manejar funciones que retornan datos.
+* Sumergirse en la Programación Orientada a Objetos (POO): Dominarán los principios de la POO, incluyendo la creación y manipulación de clases, objetos, atributos, métodos, encapsulación, herencia y polimorfismo.
+* Trabajar con Módulos y Paquetes: Aprenderán a modularizar su código, crear y usar módulos, comprender namespacing y utilizar alias para una gestión eficiente del código.
+* Gestionar Excepciones y Manipular Archivos: Desarrollarán habilidades para gestionar excepciones, comprender los diferentes modos de apertura de archivos y aplicar técnicas de serialización.
+* Introducción a Bases de Datos con SQLite3: Explorarán el lenguaje SQL para realizar operaciones CRUD, conectándose y manipulando bases de datos en Python con SQLite3.
+* Explorar Temas Avanzados: Aprenderán sobre hilos, manipulación de fechas, y se aventurarán en el fascinante mundo del web scraping utilizando la librería BeautifulSoup.
+* Proyecto Fin de Curso: Aplicarán todos los conocimientos adquiridos en un proyecto final que integrará diversas habilidades y conceptos del curso.
 
 Al finalizar este curso, los participantes estarán preparados para afrontar desafíos prácticos en el desarrollo de software utilizando Python y estarán listos para explorar áreas más avanzadas de la programación.º
 
@@ -134,8 +134,8 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
 ## MODULO XIII – PROYECTO FIN DE CURSO
 
 ## Bibliografia
-  * Python para todos - Raúl González Duque (https://persoal.citius.usc.es/eva.cernadas/informaticaparacientificos/material/libros/Python%20para%20todos.pdf) 
-  * Python. Curso práctico - Angel Arias (https://es.everand.com/book/315686230/Aprende-a-Programar-a-Python)
-  * Python para principiantes - Eugenia Bahit (https://www.amazon.es/Python-para-Principiantes-Eugenia-Bahit/dp/B0B7QGSC1G)
-  * Aprende a Programar con Python - Ángel Arias (https://www.amazon.es/Aprende-Programar-Python-%C3%81ngel-Arias/dp/1495480682)
-  * Python Fluente - Luciano Ramalho (https://www.amazon.es/Fluent-Python-Luciano-Ramalho/dp/1491946008)
+  * [Python para todos - Raúl González Duque](https://persoal.citius.usc.es/eva.cernadas/informaticaparacientificos/material/libros/Python%20para%20todos.pdf) 
+  * [Python. Curso práctico - Angel Arias](https://es.everand.com/book/315686230/Aprende-a-Programar-a-Python)
+  * [Python para principiantes - Eugenia Bahit](https://www.amazon.es/Python-para-Principiantes-Eugenia-Bahit/dp/B0B7QGSC1G)
+  * [Aprende a Programar con Python Ángel Arias](https://www.amazon.es/Aprende-Programar-Python-%C3%81ngel-Arias/dp/1495480682)
+  * [Python Fluente - Luciano Ramalho](https://www.amazon.es/Fluent-Python-Luciano-Ramalho/dp/1491946008)
