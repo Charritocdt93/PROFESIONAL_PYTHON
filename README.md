@@ -129,7 +129,7 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * Librería BeautifulSoup.
   * Instalando las librerías necesarias.
   * Realizando una petición URL.
-  * Creando un archiv  * CSV.
+  * Creando un archivo CSV.
   * Mostrando la información en un gráfico.
 ## MODULO XIII – PROYECTO FIN DE CURSO
 
