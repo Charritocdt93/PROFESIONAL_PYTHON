@@ -10,8 +10,6 @@ curso utilizaremos la versión gratuita o _community_. Puedes
 [descargarla desde la web](https://www.jetbrains.com/pycharm/download/),
 para los sistemas operativos Windows, OSX y Linux.
 
-![Pantalla de presentación de PyCharm](./imgs/pycharm.png)
-
 ## Nuevo proyecto
 
 1. Lanza PyCharm y crea un nuevo proyecto. Llámalo `practicas-master-python`.
