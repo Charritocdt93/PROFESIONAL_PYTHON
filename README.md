@@ -101,7 +101,7 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * Importando módulos.
   * Namespaces.
   * Alias.
-## MODULO VII - EXCEPCIONES
+## [MODULO VII - EXCEPCIONES](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_VII/exepciones.md)
   * Gestión de excepciones.
   * Excepciones mas comunes.
 ## [MODULO VIII - FICHEROS, ENTRADA Y SALIDA](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_VIII/ficheros.md)
