@@ -56,7 +56,7 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * Mi primer programa en Python.
   * Corriendo Python desde consola de comandos.
 ## MODULO II – EL LENGUAJE PYTHON
-  * Introducción a Python.
+  * [Introducción a Python](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_II/intro.md)
   * Comentarios.
   * Variables y constantes.
   * Tipos de datos.

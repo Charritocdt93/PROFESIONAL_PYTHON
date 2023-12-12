@@ -84,9 +84,6 @@ virtualización de entornos, etc.
 
 La comunidad de Python se organiza alrededor de la
 [Python Software Foundation](https://www.python.org/psf/).
-En España existe la asociación [Python España](https://www.es.python.org/)
-que facilita las organización de los esfuerzos relacionados con Python dentro
-del territorio.
 
 Python evoluciona gracias a las "proposiciones de mejoras de Python" o
 **_PEP_** (Python Enhancement Proposal), en inglés. Los _PEP_ se definen en el
@@ -107,20 +104,12 @@ Se puede encontrar más información sobre Python en los siguientes recursos:
 - [News from the Python Sorftware Foundation](http://pyfound.blogspot.com/)
 - [A brief history of Python](https://medium.com/@johnwolfe820/a-brief-history-of-python-ca2fa1f2e99e)
 - [PEP20](https://www.python.org/dev/peps/pep-0020/)\*
-- [PEP20 by Example](https://artifex.org/~hblanks/talks/2011/pep20_by_example.html)
 - [Programming Language Influence Network](https://exploring-data.com/vis/programming-languages-influence-network/#Python)
 
 ## Libros recomendados
 
-- [Dive into Python 3](https://www.diveinto.org/python3/)\*
 - [Clean Code](https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)\*
 - [The Best Python Books](https://realpython.com/best-python-books/)
-
-## Sobre las buenas prácticas
-
-> Rules are for the guidance of the wise and the obedience of fools.
-
-&mdash;[Douglas Bader](http://wiki.c2.com/?DouglasBader)
 
 ## _Awesome_ Python
 
