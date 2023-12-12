@@ -51,7 +51,7 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
 
 # CONTENIDO
 
-## MODULO I - NUESTRA PRIMERA APLICACIÓN PYTHON
+## [MODULO I - NUESTRA PRIMERA APLICACIÓN PYTHON](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_I/pycharm.md)
 * IDE Pycharm.
   * Mi primer programa en Python.
   * Corriendo Python desde consola de comandos.
