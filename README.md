@@ -60,7 +60,7 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * Comentarios.
   * Variables y constantes.
   * Tipos de datos.
-  * Convirtiend  * datos.
+  * Convirtiendo datos.
   * Operadores.
     * Asignación.
     * Aritméticos.
@@ -104,7 +104,7 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
 ## MODULO VII - EXCEPCIONES
   * Gestión de excepciones.
   * Excepciones mas comunes.
-## MODULO VIII - FICHEROS
+## [MODULO VIII - FICHEROS, ENTRADA Y SALIDA](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_VIII/ficheros.md)
   * Modos de apertura.
   * Métodos del objeto file.
   * Propiedades del objeto file.
