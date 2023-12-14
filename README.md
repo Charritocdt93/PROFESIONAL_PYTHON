@@ -51,8 +51,8 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
 
 # CONTENIDO
 
-## MODULO I – EL LENGUAJE PYTHON
-  * [Introducción a Python](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_I/intro.md)
+## [MODULO I – EL LENGUAJE PYTHON](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_I/intro.md)
+  * Introducción a Python
   * Comentarios.
   * Variables y constantes.
   * Tipos de datos.
