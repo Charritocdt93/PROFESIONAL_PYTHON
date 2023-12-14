@@ -51,12 +51,8 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
 
 # CONTENIDO
 
-## [MODULO I - NUESTRA PRIMERA APLICACIÓN PYTHON](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_I/pycharm.md)
-* IDE Pycharm.
-  * Mi primer programa en Python.
-  * Corriendo Python desde consola de comandos.
-## MODULO II – EL LENGUAJE PYTHON
-  * [Introducción a Python](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_II/intro.md)
+## MODULO I – EL LENGUAJE PYTHON
+  * [Introducción a Python](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_I/intro.md)
   * Comentarios.
   * Variables y constantes.
   * Tipos de datos.
@@ -72,6 +68,12 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * If/else.
 * Estructuras de control iterativas.
   * Bucle while.
+
+## [MODULO II - NUESTRA PRIMERA APLICACIÓN PYTHON](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_II/pycharm.md)
+* IDE Pycharm.
+  * Mi primer programa en Python.
+  * Corriendo Python desde consola de comandos.
+  
 ## MODULO III – TIPOS DE DATOS COMPLEJOS
   * Cadenas de caracteres.
   * Tuplas.
