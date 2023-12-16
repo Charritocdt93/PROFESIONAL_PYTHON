@@ -74,7 +74,7 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * Mi primer programa en Python.
   * Corriendo Python desde consola de comandos.
   
-## [MODULO III – REPASO Y TIPOS DE DATOS COMPLEJOS](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_III/MODULO_III - TIPOS DE DATOS COMPLEJOS.pdf)
+## [MODULO III – REPASO Y TIPOS DE DATOS COMPLEJOS](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_III/MODULO_III.pdf)
   * Cadenas de caracteres.
   * Tuplas.
   * Listas.
@@ -83,11 +83,11 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
     * Break.
     * Continue.
     * Pass.
-## [MODULO IV – FUNCIONES DEFINIDAS POR EL USUARIO](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_IV - FUNCIONES DEFINIDAS POR EL USUARIO.pdf)
+## [MODULO IV – FUNCIONES DEFINIDAS POR EL USUARIO](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_IV.pdf)
   * Definiendo funciones.
   * Opciones de parámetros.
   * Funciones que retornan datos.
-## [MODULO V – PROGRAMACION ORIENTADA A OBJETOS](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_V - PROGRAMACION ORIENTADA A OBJETOS.pdf)
+## [MODULO V – PROGRAMACION ORIENTADA A OBJETOS](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_V.pdf)
   * Elementos y características de la POO.
   * Las clases.
   * Los objetos.
