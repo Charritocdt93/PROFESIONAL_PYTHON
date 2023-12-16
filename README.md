@@ -135,6 +135,9 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * Mostrando la información en un gráfico.
 ## MODULO XIII – PROYECTO FIN DE CURSO
 
+## PRACTICOS
+ * [practico1](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/practico1.md)
+
 ## Bibliografia
   * [Python para todos - Raúl González Duque](https://persoal.citius.usc.es/eva.cernadas/informaticaparacientificos/material/libros/Python%20para%20todos.pdf) 
   * [Python. Curso práctico - Angel Arias](https://es.everand.com/book/315686230/Aprende-a-Programar-a-Python)
