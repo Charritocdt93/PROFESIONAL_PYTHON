@@ -83,11 +83,11 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
     * Break.
     * Continue.
     * Pass.
-## [MODULO IV – FUNCIONES DEFINIDAS POR EL USUARIO](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_IV.pdf)
+## [MODULO IV – FUNCIONES DEFINIDAS POR EL USUARIO](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_IV/MODULO_IV.pdf)
   * Definiendo funciones.
   * Opciones de parámetros.
   * Funciones que retornan datos.
-## [MODULO V – PROGRAMACION ORIENTADA A OBJETOS](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_V.pdf)
+## [MODULO V – PROGRAMACION ORIENTADA A OBJETOS](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_V/MODULO_V.pdf)
   * Elementos y características de la POO.
   * Las clases.
   * Los objetos.
