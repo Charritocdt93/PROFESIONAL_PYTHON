@@ -68,6 +68,10 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * If/else.
 * Estructuras de control iterativas.
   * Bucle while.
+ 
+## Videos Clase 1
+ * [Video 1 Clase 1](https://drive.google.com/file/d/1HKut4qjRSdMPhEZzfZSblJcf7l1-KIvW/view?usp=sharing)
+ * [Video 2 Clase 1](https://drive.google.com/file/d/10fFgrThi7twJ_nZIQOTLrM-ZuEShPsc2/view?usp=sharing)
 
 ## [MODULO II - NUESTRA PRIMERA APLICACIÓN PYTHON](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_II/pycharm.md)
 * IDE Pycharm.
