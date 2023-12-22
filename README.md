@@ -141,6 +141,7 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
 
 ## PRACTICOS
  * [practico1](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/practico1.md)
+ * [practico2](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/practico2.md)
 
 ## Bibliografia
   * [Python para todos - Raúl González Duque](https://persoal.citius.usc.es/eva.cernadas/informaticaparacientificos/material/libros/Python%20para%20todos.pdf) 
