@@ -83,7 +83,7 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * Tuplas.
   * Listas.
   * Diccionarios.
-  * Bucle for.
+  * [Bucle for](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_III/iteracion.pdf)
     * Break.
     * Continue.
     * Pass.
