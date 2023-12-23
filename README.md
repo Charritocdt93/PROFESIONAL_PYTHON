@@ -125,8 +125,8 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
  * [Video 4 Semana 2]()
    
 ## MODULO IX – BASES DE DATOS
-  * El lenguaje SQL (CRUD).
-  * Bases de datos en Python con SQLITE3.
+  * [El lenguaje SQL (CRUD)](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_IX/sql.pdf).
+  * [Bases de datos en Python con SQLITE3](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_IX/sql.md).
     * Introducción a bases de datos con Python
     * Conexión a la base de datos.
     * Insertar datos.
