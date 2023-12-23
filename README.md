@@ -102,7 +102,7 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * La herencia.
   * Herencia múltiple.
   * El polimorfismo.
-## MODULO VI – MÓDULOS, PAQUETES Y NAMESPACES
+## [MODULO VI – MÓDULOS, PAQUETES Y NAMESPACES](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_VI/modulo.md)
   * Creando módulos.
   * Importando módulos.
   * Namespaces.
