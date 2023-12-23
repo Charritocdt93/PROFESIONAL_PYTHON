@@ -69,9 +69,11 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
 * Estructuras de control iterativas.
   * Bucle while.
  
-## Videos Clase 1
- * [Video 1 Clase 1](https://drive.google.com/file/d/1HKut4qjRSdMPhEZzfZSblJcf7l1-KIvW/view?usp=sharing)
- * [Video 2 Clase 1](https://drive.google.com/file/d/10fFgrThi7twJ_nZIQOTLrM-ZuEShPsc2/view?usp=sharing)
+## Videos Semana 1
+ * [Video 1 Semana 1](https://drive.google.com/file/d/1HKut4qjRSdMPhEZzfZSblJcf7l1-KIvW/view?usp=sharing)
+ * [Video 2 Semana 1](https://drive.google.com/file/d/10fFgrThi7twJ_nZIQOTLrM-ZuEShPsc2/view?usp=sharing)
+ * [Video 3 Semana 1](https://drive.google.com/file/d/1fG0YRaq_iFsvoIOrYEvLqMqVhGybOIqT/view?usp=sharing)
+ * [Video 4 Semana 1](https://drive.google.com/file/d/1OVpd5PXpv4SFFfufd10nb-h5HuTWXllG/view?usp=sharing)
 
 ## [MODULO II - NUESTRA PRIMERA APLICACIÓN PYTHON](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_II/pycharm.md)
 * IDE Pycharm.
@@ -115,6 +117,13 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * Métodos del objeto file.
   * Propiedades del objeto file.
   * Serialización de ficheros.
+
+## Videos Semana 2
+ * [Video 1 Semana 2](https://drive.google.com/file/d/1DEVDfmLgVVM2k7ahZ-roUDgzMH7u8jrH/view?usp=sharing)
+ * [Video 2 Semana 2](https://drive.google.com/file/d/1DFBelt-qFCHHK7a0_UJs34Gl3o0adRuF/view?usp=sharing)
+ * [Video 3 Semana 2]()
+ * [Video 4 Semana 2]()
+   
 ## MODULO IX – BASES DE DATOS
   * El lenguaje SQL (CRUD).
   * Bases de datos en Python con SQLITE3.
