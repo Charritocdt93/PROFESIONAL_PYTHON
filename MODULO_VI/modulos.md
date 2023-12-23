@@ -1,176 +1,100 @@
-Módulos en Python
-Introducción
-Un módulo o module en Python es un fichero .py que alberga un conjunto de funciones, variables o clases y que puede ser usado por otros módulos. Nos permiten reutilizar código y organizarlo mejor en namespaces. Por ejemplo, podemos definir un módulo mimodulo.py con dos funciones suma() y resta().
+¡Por supuesto! Vamos a profundizar más en cada concepto y también agregar información sobre los "helpers".
 
-# mimodulo.py
-def suma(a, b):
-    return a + b
+### 1. **Módulo:**
+   - Un módulo es un archivo de Python que contiene definiciones y declaraciones de Python.
+   - Sirve para organizar el código en unidades lógicas y reutilizables.
+   - Puedes acceder a las funciones, clases y variables definidas en un módulo utilizando la palabra clave `import`.
+   - Ejemplo:
 
-def resta(a, b):
-    return a - b
-Una vez definido, dicho módulo puede ser usado o importado en otro fichero, como mostramos a continuación. Usando import podemos importar todo el contenido.
+     ```python
+     # Archivo: mi_modulo.py
+     def saludar(nombre):
+         print("Hola, " + nombre)
 
-# otromodulo.py
-import mimodulo
+     variable_ejemplo = 42
+     ```
 
-print(mimodulo.suma(4, 3))   # 7
-print(mimodulo.resta(10, 9)) # 1
-También podemos importar únicamente los componentes que nos interesen como mostramos a continuación.
+     Desde otro archivo:
 
-from mimodulo import suma, resta
+     ```python
+     import mi_modulo
 
-print(suma(4, 3))   # 7
-print(resta(10, 9)) # 1
-Por último, podemos importar todo el módulo haciendo uso de *, sin necesidad de usar mimodulo.*.
+     mi_modulo.saludar("Juan")
+     print(mi_modulo.variable_ejemplo)
+     ```
 
-from mimodulo import *
+### 2. **Paquete:**
+   - Un paquete es un directorio que contiene módulos y un archivo especial `__init__.py`.
+   - Permite organizar módulos relacionados en una estructura jerárquica.
+   - El archivo `__init__.py` puede estar vacío o contener código de inicialización para el paquete.
+   - Ejemplo de estructura de paquete:
 
-print(suma(4, 3))   # 7
-print(resta(10, 9)) # 1
-Rutas y Uso de sys.path
-Normalmente los módulos que importamos están en la misma carpeta, pero es posible acceder también a módulos ubicados en una subcarpeta. Imaginemos la siguiente estructura:
+     ```
+     mi_paquete/
+     ├── __init__.py
+     ├── modulo_a.py
+     └── modulo_b.py
+     ```
 
-.
-├── ejemplo.py
-├── carpeta
-│   └── modulo.py
-Donde modulo.py contiene lo siguiente:
+     Contenido de `modulo_a.py`:
 
-# modulo.py
-def hola():
-	print("Hola")
-Desde nuestro ejemplo.py, podemos importar el módulo modulo.py de la siguiente manera:
+     ```python
+     def funcion_a():
+         print("Función A")
+     ```
 
-from carpeta.modulo import *
-print(hola())
-# Hola
-Es importante notar que Python busca los módulos en las rutas indicadas por el sys.path. Es decir, cuando se importa un módulo, lo intenta buscar en dichas carpetas. Puedes ver tu sys.path de la siguiente manera:
+     Desde otro archivo:
 
-import sys
-print(sys.path)
-Como es obvio, verás que la carpeta de tu proyecta está incluida, pero ¿y si queremos importar un módulo en una ubicación distinta? Pues bien, podemos añadir al sys.path la ruta en la que queremos que Python busque.
+     ```python
+     from mi_paquete import modulo_a, modulo_b
 
-import sys
-sys.path.append(r'/ruta/de/tu/modulo')
-Una vez realizado esto, los módulos contenidos en dicha carpeta podrán ser importados sin problema como hemos visto anteriormente.
+     modulo_a.funcion_a()
+     ```
 
-Cambiando los Nombres con as
-Por otro lado, es posible cambiar el nombre del módulo usando as. Imaginemos que tenemos un módulo moduloconnombrelargo.py.
+### 3. **Espacios de nombres (Namespaces):**
+   - Un espacio de nombres es un contenedor que almacena los nombres de variables y evita conflictos de nombres.
+   - Cada módulo y paquete en Python actúa como un espacio de nombres independiente.
+   - Esto significa que puedes tener una variable `x` en un módulo sin afectar una variable `x` en otro módulo.
+   - Ejemplo:
 
-# moduloconnombrelargo.py
-hola = "hola"
-En vez de usar el siguiente import, tal vez queramos asignar un nombre más corto al módulo.
+     ```python
+     # Archivo: modulo_c.py
+     x = 10
+     ```
 
-import moduloconnombrelargo
-print(moduloconnombrelargo.hola)
-Podemos hacerlo de la siguiente manera con as:
+     ```python
+     # Archivo: modulo_d.py
+     x = "Hola"
+     ```
 
-import moduloconnombrelargo as m
-print(m.hola)
-## Listando dir
+     Desde otro archivo:
 
-La función dir() nos permite ver los nombres (variables, funciones, clases, etc) existentes en nuestro namespace. Si probamos en un módulo vacío, podemos ver como tenemos varios nombres rodeados de __. Se trata de nombres que Python crea por debajo.
+     ```python
+     from modulo_c import x as x_c
+     from modulo_d import x as x_d
 
-print(dir())
-# ['__annotations__', '__builtins__', '__cached__', '__doc__',
-# '__file__', '__loader__', '__name__', '__package__', '__spec__']
-Por ejemplo, __file__ es creado automáticamente y alberga el nombre del fichero .py.
+     print(x_c)  # Imprime 10
+     print(x_d)  # Imprime "Hola"
+     ```
 
-print(__file__)
-#/tu/ruta/tufichero.py
-Imaginemos ahora que tenemos alguna variable y función definida en nuestro script. Como era de esperar, dir() ahora nos muestra también los nuevos nombres que hemos creado, y que por supuesto pueden ser usados.
+### 4. **Helper:**
+   - Un helper (ayudante) es una función o módulo diseñado para realizar tareas específicas y ser reutilizado en diferentes partes de un programa.
+   - Los helpers simplifican el código, mejoran la legibilidad y promueven la reutilización.
+   - Ejemplo de un helper simple:
 
-mi_variable = "Python"
-def mi_funcion():
-    pass
+     ```python
+     # Archivo: mi_helper.py
+     def duplicar_numero(numero):
+         return numero * 2
+     ```
 
-print(dir())
+     Desde otro archivo:
 
-#['__annotations__', '__builtins__', '__cached__', '__doc__',
-# '__file__', '__loader__', '__name__', '__package__', '__spec__',
-# 'mi_funcion', 'mi_variable']
-Por último, vamos a importar el contenido de un módulo externo. Podemos ver que en el namespace tenemos también los nombres resta y suma, que han sido tomados de mimodulo.
+     ```python
+     from mi_helper import duplicar_numero
 
-from mimodulo import *
-print(dir())
+     resultado = duplicar_numero(5)
+     print(resultado)  # Imprime 10
+     ```
 
-# ['__annotations__', '__builtins__', '__cached__',
-# '__doc__', '__file__', '__loader__', '__name__',
-# '__package__', '__spec__', 'resta', 'suma']
-El uso de dir() también acepta parámetros de entrada, por lo que podemos por ejemplo pasar nuestro modulo y nos dará más información sobre lo que contiene.
-
-import mimodulo
-
-print(dir(mimodulo))
-# ['__builtins__', '__cached__', '__doc__',
-# '__file__','__loader__', '__name__',
-# '__package__', '__spec__', 'resta', 'suma']
-
-print(mimodulo.__name__)
-# mimodulo
-
-print(mimodulo.__file__)
-# /tu/ruta/mimodulo.py
-Excepción ImportError
-Importar un módulo puede lanzar una excepción, cuando se intenta importar un módulo que no ha sido encontrado. Se trata de ModuleNotFoundError.
-
-import moduloquenoexiste
-# ModuleNotFoundError: No module named 'moduloquenoexiste'
-Dicha excepción puede ser capturada para evitar la interrupción del programa.
-
-try:
-    import moduloquenoexiste
-except ModuleNotFoundError as e:
-    print("Hubo un error:", e)
-Módulos y Función Main
-Un problema muy recurrente es cuando creamos un módulo con una función como en el siguiente ejemplo, y añadimos algunas sentencias a ejecutar.
-
-# modulo.py
-
-def suma(a, b):
-    return a + b
-
-c = suma(1, 2)
-print("La suma es:", c)
-Si en otro módulo importamos nuestro modulo.py, tal como está nuestro código el contenido se ejecutará, y esto puede no ser lo que queramos.
-
-# otromodulo.py
-import modulo
-
-# Salida: La suma es: 3
-Dependiendo de la situación, puede ser importante especificar que únicamente queremos que se ejecute el código si el módulo es el __main__. Con la siguiente modificación, si hacemos import modulo desde otro módulo, este fragmento ya no se ejecutará al ser el módulo main otro.
-
-# modulo.py
-def suma(a, b):
-    return a + b
-
-if (__name__ == '__main__'):
-    c = suma(1, 2)
-    print("La suma es:", c)
-Recargando Módulos
-Es importante notar que los módulos solamente son cargados una vez. Es decir, no importa el número de veces que llamemos a import mimodulo, que sólo se importará una vez.
-
-Imaginemos que tenemos el siguiente módulo que imprime el siguiente contenido cuando es importado.
-
-# mimodulo.py
-
-print("Importando mimodulo")
-
-def suma(a, b):
-    return a + b
-
-def resta(a, b):
-    return a - b
-A pesar de que llamamos tres veces al import, sólo vemos una única vez el contenido del print.
-
-import mimodulo
-import mimodulo
-import mimodulo
-# Importando mimodulo
-Si queremos que el módulo sea recargado, tenemos que ser explícitos, haciendo uso de reload.
-
-import mimodulo
-import importlib
-importlib.reload(mimodulo)
-importlib.reload(mimodulo)
-
+Utilizar módulos, paquetes y helpers es una práctica clave en Python para crear código modular y mantenible. Estos conceptos proporcionan una estructura organizada para proyectos más grandes y facilitan la colaboración en el desarrollo de software.
