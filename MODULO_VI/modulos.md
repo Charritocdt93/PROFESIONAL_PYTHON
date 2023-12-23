@@ -1,4 +1,3 @@
-¡Por supuesto! Vamos a profundizar más en cada concepto y también agregar información sobre los "helpers".
 
 ### 1. **Módulo:**
    - Un módulo es un archivo de Python que contiene definiciones y declaraciones de Python.
