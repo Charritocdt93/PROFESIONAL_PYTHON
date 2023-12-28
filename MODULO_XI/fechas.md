@@ -68,5 +68,3 @@ print(fecha.strftime("Mes y día abreviados: %b %d"))
 # Formato personalizado
 print(fecha.strftime("Formato personalizado: %Y/%m/%d %H:%M:%S"))
 ```
-
-Estos son solo ejemplos básicos para empezar a trabajar con fechas en Python. Puedes adaptarlos según tus necesidades específicas. La documentación oficial de Python sobre el módulo `datetime` proporciona información más detallada y opciones de formato: [datetime - Módulo de manejo de fechas y horas](https://docs.python.org/3/library/datetime.html).
