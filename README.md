@@ -137,7 +137,7 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
     * Actualizar registros.
 ## [MODULO X - INTRODUCCIÓN A LOS HILOS](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_X/hilos.md).
   * Los hilos y las tareas.
-## MODULO XI – FECHAS
+## [MODULO XI – FECHAS](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_XI/fechas.md).
   * Trabajo con fechas.
   * Comparando fechas.
   * Aplicando formatos a fechas.
