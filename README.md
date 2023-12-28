@@ -124,7 +124,8 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
  * [Video 2 Semana 2](https://drive.google.com/file/d/1DFBelt-qFCHHK7a0_UJs34Gl3o0adRuF/view?usp=sharing)
  * [Video 3 Semana 2](https://drive.google.com/file/d/1RAMNJroalWvBxh2SEjuFu22t84iXyH1M/view?usp=sharing)
  * [Video 4 Semana 2](https://drive.google.com/file/d/1Ev6GLN_73diqm4B3Z44jz5wNnaZHgS3g/view?usp=sharing)
-   
+ * [Video Consulta Semana 2](https://drive.google.com/file/d/1sIwngsM0ge6i0STW-RJWYawoGeQ6_uXp/view?usp=sharing)
+  
 ## MODULO IX – BASES DE DATOS
   * [El lenguaje SQL (CRUD)](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_IX/sql.pdf).
   * [Bases de datos en Python con SQLITE3](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_IX/sql.md).
@@ -134,7 +135,7 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
     * Seleccionar registros.
     * Eliminar registros.
     * Actualizar registros.
-## MODULO X - INTRODUCCIÓN A LOS HILOS
+## [MODULO X - INTRODUCCIÓN A LOS HILOS](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_X/hilos.md).
   * Los hilos y las tareas.
 ## MODULO XI – FECHAS
   * Trabajo con fechas.
