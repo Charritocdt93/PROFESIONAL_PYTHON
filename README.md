@@ -141,14 +141,14 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * Trabajo con fechas.
   * Comparando fechas.
   * Aplicando formatos a fechas.
-## MODULO XII – INTRODUCCIÓN AL WEB SCRAPING CON PYTHON
+## [MODULO XII – INTRODUCCIÓN AL WEB SCRAPING CON PYTHON](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_XII/webscraping.md).
   * ¿Qué es el Web Scraping?
   * Librería BeautifulSoup.
   * Instalando las librerías necesarias.
   * Realizando una petición URL.
   * Creando un archivo CSV.
   * Mostrando la información en un gráfico.
-## MODULO XIII – PROYECTO FIN DE CURSO
+## [MODULO XIII – PROYECTO FIN DE CURSO](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_XI/proyeto.md).
 
 ## PRACTICOS
  * [practico1](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/practico1.md)
