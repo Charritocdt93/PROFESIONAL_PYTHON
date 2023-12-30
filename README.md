@@ -148,7 +148,7 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * Realizando una petición URL.
   * Creando un archivo CSV.
   * Mostrando la información en un gráfico.
-## [MODULO XIII – PROYECTO FIN DE CURSO](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_XI/proyeto.md).
+## [MODULO XIII – PROYECTO FIN DE CURSO](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_XIII/proyeto.md).
 
 ## PRACTICOS
  * [practico1](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/practico1.md)
