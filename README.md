@@ -148,6 +148,14 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
   * Realizando una petición URL.
   * Creando un archivo CSV.
   * Mostrando la información en un gráfico.
+
+## Videos Semana 3
+ * [Video 1 Semana 3](https://drive.google.com/file/d/1S8cHKNdyx2wqkaOa4PjEVJCrbnyVW3j0/view?usp=sharing)
+ * [Video 2 Semana 3](https://drive.google.com/file/d/1z32UP5hqXZC0B0DC_tLqWtMn3mbvaxS9/view?usp=sharing)
+ * [Video 3 Semana 3](https://drive.google.com/file/d/1rzk5Tiyu7G8uqGWWkA1LH2h1z1-GgSjZ/view?usp=sharing)
+ * [Video 4 Semana 3](https://drive.google.com/file/d/19vNLqNPWpR4WRaPLQBoS0QfsqHjJGE4Q/view?usp=sharing)
+ * [Video Consulta Semana 3]()
+  
 ## [MODULO XIII – PROYECTO FIN DE CURSO](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_XIII/proyeto.md).
 
 ## PRACTICOS
