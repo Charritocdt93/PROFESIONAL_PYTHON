@@ -154,14 +154,21 @@ Para realizar este curso no son necesarios conocimientos de programación, te fo
  * [Video 2 Semana 3](https://drive.google.com/file/d/1z32UP5hqXZC0B0DC_tLqWtMn3mbvaxS9/view?usp=sharing)
  * [Video 3 Semana 3](https://drive.google.com/file/d/1rzk5Tiyu7G8uqGWWkA1LH2h1z1-GgSjZ/view?usp=sharing)
  * [Video 4 Semana 3](https://drive.google.com/file/d/19vNLqNPWpR4WRaPLQBoS0QfsqHjJGE4Q/view?usp=sharing)
- * [Video Consulta Semana 3]()
+ * [Video Consulta Semana 3](https://drive.google.com/file/d/1IVIr9iRW9EgmmwuWXgACsqw3ZT8zRUHE/view?usp=sharing)
   
-## [MODULO XIII – PROYECTO FIN DE CURSO](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_XIII/proyeto.md).
+## [MODULO XIII – PROYECTO FIN DE CURSO](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/MODULO_XIII/proyecto.md).
 
 ## PRACTICOS
  * [practico1](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/practico1.md)
  * [practico2](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/Practico2.pdf)
  * [practico3](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/practico3.pdf)
+
+## Videos Semana 4
+ * [Video 1 Semana 4](https://drive.google.com/file/d/1eHtSqgKrzXR1Z-szRboa6UpRebqazGCj/view?usp=sharing)
+ * [Video 2 Semana 4](https://drive.google.com/file/d/1ZxYCBKjuNdnVmGeGwd-h0Y6u2LxW2uJt/view?usp=sharing)
+ * [Evaluación Estudiante](https://drive.google.com/file/d/13geLUYX4ScoqOwVdB_UuFIKt_8Fg_U_i/view?usp=sharing)
+ * [Video 3 Semana 4](https://drive.google.com/file/d/1JCc9pFO62omKnDD2P4eyCC6_BWGKOaPR/view?usp=sharing)
+ * [Video 4 Semana 4](https://drive.google.com/file/d/1ugK_GhcoNxvjFh_yWXkGWSOOLAr8FM7F/view?usp=sharing)
 
 ## [REPOSITORIO EJERCICIOS](https://github.com/pbonillor/PROFESIONAL_PYTHON/blob/main/EJERCICIOS)
 
